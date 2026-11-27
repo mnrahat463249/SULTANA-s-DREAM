@@ -1,0 +1,1343 @@
+{
+    "settings": {
+        "store_name": "SULTANA'S DREAM",
+        "tagline": "Modern South Asian Haute Couture & Everyday Elegance",
+        "currency": "BDT",
+        "currency_symbol": "\u09f3",
+        "free_shipping_threshold": 2500,
+        "default_shipping_fee": 60,
+        "outside_dhaka_shipping_fee": 120,
+        "tax_rate": 0.05,
+        "active_coupon": "SULTANA20",
+        "coupon_discount_percent": 20,
+        "announcement_text": "COMPLIMENTARY WHITE-GLOVE SAME-DAY DELIVERY ACROSS DHAKA ON ORDERS OVER \u09f32,500 \u2022 USE CODE: SULTANA20 FOR 20% OFF",
+        "is_maintenance_mode": false,
+        "brand_palette": {
+            "primary": "#7A3E5D",
+            "secondary": "#D8A7B1",
+            "background": "#FBF8F5",
+            "surface": "#FFFFFF",
+            "text": "#201B1D",
+            "muted": "#756B70",
+            "border": "#E8DFE2"
+        }
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "All Pieces",
+            "slug": "all-pieces",
+            "count": 8
+        },
+        {
+            "id": 2,
+            "name": "Sarees",
+            "slug": "sarees",
+            "count": 2
+        },
+        {
+            "id": 3,
+            "name": "Anarkalis",
+            "slug": "anarkalis",
+            "count": 1
+        },
+        {
+            "id": 4,
+            "name": "Co-ord Sets",
+            "slug": "co-ord-sets",
+            "count": 1
+        },
+        {
+            "id": 5,
+            "name": "Dupattas & Shawls",
+            "slug": "dupattas-shawls",
+            "count": 2
+        },
+        {
+            "id": 6,
+            "name": "Fusion Tailoring",
+            "slug": "fusion-tailoring",
+            "count": 1
+        },
+        {
+            "id": 7,
+            "name": "Jewelry",
+            "slug": "jewelry",
+            "count": 1
+        }
+    ],
+    "products": [
+        {
+            "id": "prod_01",
+            "brand": "SULTANA'S DREAM",
+            "title": "Nocturne Jamdani Pure Mulberry Silk Saree",
+            "slug": "nocturne-jamdani-pure-mulberry-silk-saree",
+            "sku": "SD-JMD-001",
+            "category": "Sarees",
+            "price": 14500,
+            "original_price": 18500,
+            "discount_percent": 22,
+            "sale_tag": "-22% Eid Special",
+            "badge": "Heritage Handloom",
+            "rating": 5,
+            "reviews": 128,
+            "is_active": true,
+            "is_new": true,
+            "fabric_origin": "Narayanganj & Sonargaon Weavers Guild, Bangladesh",
+            "fabric_type": "100-Count Fine Mulberry Silk & Tested Gold Zari",
+            "construction_method": "Traditional Discontinuous Weft Handloom (180 Hours of Artisanal Weaving)",
+            "description": "An ethereal heirloom saree woven by master artisans in Sonargaon. Features intricate floral jaal motifs and an opulent gold-dipped zari pallu, draped with featherweight fluidity.",
+            "images": [
+                "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Obsidian Midnight",
+                    "hex": "#1A1721"
+                },
+                {
+                    "name": "Crimson Royale",
+                    "hex": "#7A3E5D"
+                },
+                {
+                    "name": "Ivory Gold",
+                    "hex": "#EED8B3"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "Unstitched Saree (6.5 Yards)",
+                    "stock": 5
+                }
+            ],
+            "craftsmanship_hotspots": [
+                {
+                    "id": 1,
+                    "title": "Sonargaon Discontinuous Weft",
+                    "detail": "Every floral motif is individually inlaid by hand using fine bamboo spools, preserving a 400-year-old Bengal UNESCO heritage technique.",
+                    "badge": "UNESCO Intangible Heritage",
+                    "spec": "180 Weaving Hours"
+                },
+                {
+                    "id": 2,
+                    "title": "Pure Tested Gold Zari",
+                    "detail": "Metallic warp threads electroplated with micro-fine silver and gold alloys ensuring lifetime anti-tarnish luster.",
+                    "badge": "Non-Tarnish Zari",
+                    "spec": "Gold-Dipped Micron Wire"
+                },
+                {
+                    "id": 3,
+                    "title": "100-Count High-Twist Silk",
+                    "detail": "Mulberry silk cocoons hand-reeled for high tensile strength while retaining a whisper-soft cloud drape.",
+                    "badge": "Organic Mulberry",
+                    "spec": "100-Count Grade A"
+                }
+            ]
+        },
+        {
+            "id": "prod_02",
+            "brand": "SULTANA'S DREAM",
+            "title": "Rosewater Muslin Kalidar Anarkali Set",
+            "slug": "rosewater-muslin-kalidar-anarkali-set",
+            "sku": "SD-ANK-002",
+            "category": "Anarkalis",
+            "price": 8950,
+            "original_price": 11200,
+            "discount_percent": 20,
+            "sale_tag": "-20%",
+            "badge": "Bespoke Cut",
+            "rating": 4.9,
+            "reviews": 76,
+            "is_active": true,
+            "is_new": true,
+            "description": "Voluminous 24-kali flared silhouette cut from pure breathable Dhaka muslin. Embellished with subtle antique gota patti and hand-embroidered resham flora. Includes matching churidar and scalloped dupatta.",
+            "images": [
+                "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Rosewater Blush",
+                    "hex": "#D8A7B1"
+                },
+                {
+                    "name": "Sage Mist",
+                    "hex": "#9EAEA2"
+                },
+                {
+                    "name": "Pearl White",
+                    "hex": "#FBF8F5"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "XS",
+                    "stock": 4
+                },
+                {
+                    "label": "S",
+                    "stock": 8
+                },
+                {
+                    "label": "M",
+                    "stock": 10
+                },
+                {
+                    "label": "L",
+                    "stock": 6
+                },
+                {
+                    "label": "XL",
+                    "stock": 3
+                }
+            ]
+        },
+        {
+            "id": "prod_03",
+            "brand": "SULTANA'S DREAM",
+            "title": "Zari Embroidered Royale Velvet Shawl",
+            "slug": "zari-embroidered-royale-velvet-shawl",
+            "sku": "SD-SHW-003",
+            "category": "Dupattas & Shawls",
+            "price": 6800,
+            "original_price": 8500,
+            "discount_percent": 20,
+            "sale_tag": "Winter Festive",
+            "badge": "Royale Velvet",
+            "rating": 5,
+            "reviews": 43,
+            "is_active": true,
+            "is_new": false,
+            "description": "Luxurious micro-velvet drape bordered with hand-stitched dabka, zardozi metal embroidery, and micro-pearl tassels. Ideal for wedding evenings and gala dinners.",
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1539533018447-63fcce667883?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Sultana Plum",
+                    "hex": "#7A3E5D"
+                },
+                {
+                    "name": "Emerald Pine",
+                    "hex": "#2F7D5A"
+                },
+                {
+                    "name": "Midnight Indigo",
+                    "hex": "#1E2238"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "Standard (2.75m)",
+                    "stock": 12
+                }
+            ]
+        },
+        {
+            "id": "prod_04",
+            "brand": "SULTANA'S DREAM",
+            "title": "Chanderi Silk Flared Kurti & Trousers Co-ord",
+            "slug": "chanderi-silk-flared-kurti-trousers-co-ord",
+            "sku": "SD-CRD-004",
+            "category": "Co-ord Sets",
+            "price": 4850,
+            "original_price": 5800,
+            "discount_percent": 16,
+            "sale_tag": "Trending",
+            "badge": "Festive Ready",
+            "rating": 4.8,
+            "reviews": 52,
+            "is_active": true,
+            "is_new": true,
+            "description": "Contemporary dual-toned co-ord set with asymmetric A-line kurti cut from lustrous Chanderi silk paired with tapered cigarette trousers.",
+            "images": [
+                "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1551803091-e20673f15770?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Dusty Lilac",
+                    "hex": "#BBA2B4"
+                },
+                {
+                    "name": "Ochre Gold",
+                    "hex": "#C88A2D"
+                },
+                {
+                    "name": "Charcoal Black",
+                    "hex": "#201B1D"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "S",
+                    "stock": 6
+                },
+                {
+                    "label": "M",
+                    "stock": 9
+                },
+                {
+                    "label": "L",
+                    "stock": 7
+                },
+                {
+                    "label": "XL",
+                    "stock": 4
+                }
+            ]
+        },
+        {
+            "id": "prod_05",
+            "brand": "SULTANA'S DREAM",
+            "title": "Handcrafted Filigree Polki Choker Necklace",
+            "slug": "handcrafted-filigree-polki-choker-necklace",
+            "sku": "SD-JWL-005",
+            "category": "Jewelry",
+            "price": 5400,
+            "original_price": 6500,
+            "discount_percent": 17,
+            "sale_tag": "Artisan Jewelry",
+            "badge": "Artisan Filigree",
+            "rating": 5,
+            "reviews": 38,
+            "is_active": true,
+            "is_new": false,
+            "description": "Exquisite Tantibazar fine wire filigree choker cast in hypoallergenic silver alloy with uncut simulated polki crystals and suspended Colombian emerald droplets.",
+            "images": [
+                "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1611591475816-52c6e64c5850?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Antique Gold & Emerald",
+                    "hex": "#C88A2D"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "Adjustable Dori",
+                    "stock": 8
+                }
+            ]
+        },
+        {
+            "id": "prod_06",
+            "brand": "SULTANA'S DREAM",
+            "title": "Hand-Block Printed Organic Khadi Saree",
+            "slug": "hand-block-printed-organic-khadi-saree",
+            "sku": "SD-KHD-006",
+            "category": "Sarees",
+            "price": 3950,
+            "original_price": 4800,
+            "discount_percent": 18,
+            "sale_tag": "-18%",
+            "badge": "Eco Handloom",
+            "rating": 4.9,
+            "reviews": 64,
+            "is_active": true,
+            "is_new": false,
+            "description": "Comilla hand-spun organic khadi cotton patterned with heritage wooden blocks using eco-friendly natural indigo and madder dyes. Effortlessly light and airy.",
+            "images": [
+                "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Indigo Blue",
+                    "hex": "#273A5C"
+                },
+                {
+                    "name": "Madder Rust",
+                    "hex": "#8B4738"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "Standard Saree (6.2 Yards)",
+                    "stock": 10
+                }
+            ]
+        },
+        {
+            "id": "prod_07",
+            "brand": "SULTANA'S DREAM",
+            "title": "Organza Wrap Jacket & Trouser Fusion Ensemble",
+            "slug": "organza-wrap-jacket-trouser-fusion-ensemble",
+            "sku": "SD-FSN-007",
+            "category": "Fusion Tailoring",
+            "price": 5900,
+            "original_price": 7200,
+            "discount_percent": 18,
+            "sale_tag": "Couture Fusion",
+            "badge": "Editorial Cut",
+            "rating": 4.8,
+            "reviews": 29,
+            "is_active": true,
+            "is_new": true,
+            "description": "Tailored crossover wrap blazer crafted from crisp silk tissue organza with delicate threadwork borders, paired with straight-cut raw silk pants.",
+            "images": [
+                "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Champagne Plum",
+                    "hex": "#7A3E5D"
+                },
+                {
+                    "name": "Ivory Frost",
+                    "hex": "#FBF8F5"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "S",
+                    "stock": 4
+                },
+                {
+                    "label": "M",
+                    "stock": 6
+                },
+                {
+                    "label": "L",
+                    "stock": 5
+                }
+            ]
+        },
+        {
+            "id": "prod_08",
+            "brand": "SULTANA'S DREAM",
+            "title": "Scalloped Mukaish Work Pure Organza Dupatta",
+            "slug": "scalloped-mukaish-work-pure-organza-dupatta",
+            "sku": "SD-DPT-008",
+            "category": "Dupattas & Shawls",
+            "price": 2400,
+            "original_price": 3000,
+            "discount_percent": 20,
+            "sale_tag": "Bestseller",
+            "badge": "Everyday Luxury",
+            "rating": 4.9,
+            "reviews": 92,
+            "is_active": true,
+            "is_new": false,
+            "description": "Featherweight sheer organza studded with hand-hammered silver mukaish stars and raw-edge scalloped resham embroidery.",
+            "images": [
+                "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=1200&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?q=80&w=1200&auto=format&fit=crop"
+            ],
+            "colors": [
+                {
+                    "name": "Blush Rose",
+                    "hex": "#D8A7B1"
+                },
+                {
+                    "name": "Soft Lavender",
+                    "hex": "#C9B5CE"
+                }
+            ],
+            "sizes": [
+                {
+                    "label": "One Size (2.5m)",
+                    "stock": 15
+                }
+            ]
+        }
+    ],
+    "orders": [
+        {
+            "order_number": "SD-10254",
+            "tracking_number": "SD-TRK-99210",
+            "production_stage": "shipped",
+            "client_name": "Ayesha Rahman",
+            "client_email": "ayesha.rahman@gmail.com",
+            "shipping_address": "House 42, Road 11, Block D, Banani, Dhaka 1213",
+            "phone": "+880 1712-345678",
+            "division": "Dhaka",
+            "district": "Dhaka City",
+            "subtotal": 14500,
+            "tax": 725,
+            "shipping": 0,
+            "discount": 0,
+            "grand_total": 15225,
+            "payment_status": "PAID_VERIFIED",
+            "payment_method": "bKash Online \u2022\u2022\u2022\u2022 5678",
+            "courier": "Pathao Express White-Glove Fleet #04",
+            "created_at": "2026-09-08 14:30:00",
+            "timeline": [
+                {
+                    "stage": "order_placed",
+                    "label": "Order Placed",
+                    "time": "14:30",
+                    "done": true
+                },
+                {
+                    "stage": "confirmed",
+                    "label": "Confirmed",
+                    "time": "14:35",
+                    "done": true
+                },
+                {
+                    "stage": "processing",
+                    "label": "Quality Inspected & Packed",
+                    "time": "15:10",
+                    "done": true
+                },
+                {
+                    "stage": "shipped",
+                    "label": "Shipped with Pathao Express",
+                    "time": "16:00",
+                    "done": true
+                },
+                {
+                    "stage": "out_for_delivery",
+                    "label": "Out for Delivery",
+                    "time": "Pending",
+                    "done": false
+                },
+                {
+                    "stage": "delivered",
+                    "label": "Delivered",
+                    "time": "Pending",
+                    "done": false
+                }
+            ],
+            "items": [
+                {
+                    "id": "prod_01",
+                    "title": "Nocturne Jamdani Pure Mulberry Silk Saree",
+                    "size": "Unstitched Saree (6.5 Yards)",
+                    "color": "Obsidian Midnight",
+                    "quantity": 1,
+                    "price": 14500,
+                    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800&auto=format&fit=crop"
+                }
+            ]
+        },
+        {
+            "order_number": "SD-10255",
+            "tracking_number": "SD-TRK-78451",
+            "production_stage": "processing",
+            "client_name": "Nazia Chowdhury",
+            "client_email": "nazia.c@outlook.com",
+            "shipping_address": "Flat 6B, Sanmar Ocean City, GEC Circle, Chattogram",
+            "phone": "+880 1819-876543",
+            "division": "Chattogram",
+            "district": "Chattogram City",
+            "subtotal": 8950,
+            "tax": 447.5,
+            "shipping": 0,
+            "discount": 1790,
+            "grand_total": 7607.5,
+            "payment_status": "PENDING_CASH_ON_DELIVERY",
+            "payment_method": "Cash on Delivery (COD)",
+            "courier": "Steadfast Courier VIP Delivery",
+            "created_at": "2026-09-08 17:15:00",
+            "timeline": [
+                {
+                    "stage": "order_placed",
+                    "label": "Order Placed",
+                    "time": "17:15",
+                    "done": true
+                },
+                {
+                    "stage": "confirmed",
+                    "label": "Confirmed",
+                    "time": "17:20",
+                    "done": true
+                },
+                {
+                    "stage": "processing",
+                    "label": "Processing in Atelier",
+                    "time": "17:45",
+                    "done": true
+                },
+                {
+                    "stage": "shipped",
+                    "label": "Shipped",
+                    "time": "Pending",
+                    "done": false
+                },
+                {
+                    "stage": "out_for_delivery",
+                    "label": "Out for Delivery",
+                    "time": "Pending",
+                    "done": false
+                },
+                {
+                    "stage": "delivered",
+                    "label": "Delivered",
+                    "time": "Pending",
+                    "done": false
+                }
+            ],
+            "items": [
+                {
+                    "id": "prod_02",
+                    "title": "Rosewater Muslin Kalidar Anarkali Set",
+                    "size": "M",
+                    "color": "Rosewater Blush",
+                    "quantity": 1,
+                    "price": 8950,
+                    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=800&auto=format&fit=crop"
+                }
+            ]
+        }
+    ],
+    "fleet": [
+        {
+            "unit": "Dhaka Central Van #01",
+            "courier": "Tanvir H.",
+            "battery": "92%",
+            "assigned": "Gulshan, Banani & Dhanmondi",
+            "stops_left": 4,
+            "temperature": "22.0\u00b0C"
+        },
+        {
+            "unit": "Uttara Sector Van #02",
+            "courier": "Shafiq M.",
+            "battery": "85%",
+            "assigned": "Uttara & Bashundhara R/A",
+            "stops_left": 3,
+            "temperature": "21.5\u00b0C"
+        },
+        {
+            "unit": "Chattogram Hub Van #03",
+            "courier": "Imran K.",
+            "battery": "78%",
+            "assigned": "GEC, Nasirabad & Agrabad",
+            "stops_left": 2,
+            "temperature": "23.0\u00b0C"
+        }
+    ],
+    "architecture_routes": [
+        {
+            "id": "storefront",
+            "name": "Editorial Storefront",
+            "hash": "#shop/storefront",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\ProductController@index",
+            "status": "active",
+            "method": "GET",
+            "description": "10-section modular South Asian luxury storefront with Begum Rokeya brand storytelling."
+        },
+        {
+            "id": "catalog",
+            "name": "Collection Catalog",
+            "hash": "#shop/catalog",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\ProductController@index",
+            "status": "active",
+            "method": "GET",
+            "description": "Faceted ready-to-wear and couture catalog with category filters and Taka (\u09f3) pricing."
+        },
+        {
+            "id": "pdp",
+            "name": "Haute Couture PDP",
+            "hash": "#shop/pdp",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\ProductController@show",
+            "status": "active",
+            "method": "GET",
+            "description": "Nocturne Jamdani Pure Mulberry Silk Saree with Sonargaon heritage storytelling and buy buttons."
+        },
+        {
+            "id": "bag",
+            "name": "Shopping Bag Experience",
+            "hash": "#shop/bag",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\CartController@getCart",
+            "status": "active",
+            "method": "GET",
+            "description": "Complimentary nationwide shipping meter (\u09f32,500 threshold) and voucher redemption."
+        },
+        {
+            "id": "checkout",
+            "name": "4-Step Secure Checkout",
+            "hash": "#shop/checkout",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\CheckoutController@process",
+            "status": "active",
+            "method": "POST",
+            "description": "Frictionless checkout with 8 Bangladeshi Divisions, bKash, Nagad, and Cash on Delivery."
+        },
+        {
+            "id": "confirmation",
+            "name": "Order Confirmation (#SD-10254)",
+            "hash": "#shop/confirmation",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@show",
+            "status": "active",
+            "method": "GET",
+            "description": "Order confirmed ledger, 5-step delivery journey timeline, and digital tax invoice download."
+        },
+        {
+            "id": "account",
+            "name": "Customer Account Portal",
+            "hash": "#shop/account",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\AuthController@profile",
+            "status": "active",
+            "method": "GET",
+            "description": "Ayesha Rahman patron profile, order history, wishlist, and bespoke fitting measurements."
+        },
+        {
+            "id": "auth",
+            "name": "Client Authentication & Login",
+            "hash": "#shop/auth",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\AuthController@login",
+            "status": "active",
+            "method": "POST",
+            "description": "OTP and password login for patrons and guests."
+        },
+        {
+            "id": "tracking",
+            "name": "Live Transit Tracking",
+            "hash": "#shop/tracking",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@track",
+            "status": "active",
+            "method": "GET",
+            "description": "Steadfast Courier and Pathao express live dispatch tracking map."
+        },
+        {
+            "id": "returns",
+            "name": "Returns & Exchanges Portal",
+            "hash": "#shop/returns",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\ReturnController@submit",
+            "status": "active",
+            "method": "POST",
+            "description": "Doorstep fit guarantee exchange and return processing."
+        },
+        {
+            "id": "digital_wardrobe",
+            "name": "Digital Wardrobe Vault",
+            "hash": "#shop/wardrobe",
+            "category": "ecommerce",
+            "category_label": "Public E-Commerce",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@wardrobe",
+            "status": "active",
+            "method": "GET",
+            "description": "Digital closet storing verified authentic haute pieces owned by patron."
+        },
+        {
+            "id": "cnc",
+            "name": "Stage 01 \u2022 CNC Laser Cutting",
+            "hash": "#admin/cnc",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@cnc",
+            "status": "active",
+            "method": "POST",
+            "description": "Sub-millimeter laser fabric cutting workstation for unstitched Jamdani."
+        },
+        {
+            "id": "basting",
+            "name": "Stage 02 \u2022 Hand Basting Bench",
+            "hash": "#admin/basting",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@basting",
+            "status": "active",
+            "method": "POST",
+            "description": "Artisan hand basting bench for delicate silk and muslin stabilization."
+        },
+        {
+            "id": "pressing",
+            "name": "Stage 03 \u2022 Vacuum Steam Press",
+            "hash": "#admin/pressing",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@pressing",
+            "status": "active",
+            "method": "POST",
+            "description": "Steam finishing and fiber setting station."
+        },
+        {
+            "id": "final_qc",
+            "name": "Stage 05 \u2022 Final QC & Ultrasonic Welt",
+            "hash": "#admin/qc",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@signOffQc",
+            "status": "active",
+            "method": "POST",
+            "description": "18-point weave inspection and master artisan quality sign-off."
+        },
+        {
+            "id": "bagging",
+            "name": "Stage 06 \u2022 Hermetic Cedar Bagging",
+            "hash": "#admin/bagging",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@bagging",
+            "status": "active",
+            "method": "POST",
+            "description": "Archival packaging with acid-free tissue in signature plum luxury box."
+        },
+        {
+            "id": "fittings",
+            "name": "In-Home Try-On Ops Console",
+            "hash": "#admin/fittings",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\TryOnController@slots",
+            "status": "active",
+            "method": "GET",
+            "description": "Concierge appointment booking and try-on fleet schedule."
+        },
+        {
+            "id": "fit_confirmation",
+            "name": "Client Fit Review & Sign-Off",
+            "hash": "#admin/fit-review",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\TryOnController@review",
+            "status": "active",
+            "method": "POST",
+            "description": "Fitting feedback evaluation and alteration routing."
+        },
+        {
+            "id": "doorstep_nfc",
+            "name": "Doorstep NFC Verification",
+            "hash": "#admin/doorstep-nfc",
+            "category": "workshop",
+            "category_label": "Atelier Workshop Ops",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@verifyDoorstepNfc",
+            "status": "active",
+            "method": "POST",
+            "description": "Cryptographic tag tap-to-verify handover."
+        },
+        {
+            "id": "queue",
+            "name": "Orders & Fulfillment Queue",
+            "hash": "#admin/queue",
+            "category": "fleet",
+            "category_label": "Fleet & Logistics",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@index",
+            "status": "active",
+            "method": "GET",
+            "description": "Central atelier order intake and packing pipeline."
+        },
+        {
+            "id": "dispatch",
+            "name": "Fleet Dispatch Command HQ",
+            "hash": "#admin/dispatch",
+            "category": "fleet",
+            "category_label": "Fleet & Logistics",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@dispatchFleetStatus",
+            "status": "active",
+            "method": "GET",
+            "description": "Real-time courier fleet positions, stops, and battery telemetry across Dhaka."
+        },
+        {
+            "id": "courier",
+            "name": "Driver Route #07 App",
+            "hash": "#admin/courier",
+            "category": "fleet",
+            "category_label": "Fleet & Logistics",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@courierRoute",
+            "status": "active",
+            "method": "GET",
+            "description": "Mobile courier route manifest for Gulshan and Banani drop-offs."
+        },
+        {
+            "id": "handoff",
+            "name": "Handoff Confirmed & Verified",
+            "hash": "#admin/handoff",
+            "category": "fleet",
+            "category_label": "Fleet & Logistics",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@handoff",
+            "status": "active",
+            "method": "POST",
+            "description": "Courier delivery proof and customer signature."
+        },
+        {
+            "id": "pass",
+            "name": "Mobile Drop-Off Pass",
+            "hash": "#admin/pass",
+            "category": "fleet",
+            "category_label": "Fleet & Logistics",
+            "controller": "App\\Http\\Controllers\\Api\\ReturnController@getPass",
+            "status": "active",
+            "method": "GET",
+            "description": "Scannable customer QR code for concierge pick-up."
+        },
+        {
+            "id": "lockscreen",
+            "name": "iOS Live Activity Lock Screen",
+            "hash": "#admin/lockscreen",
+            "category": "fleet",
+            "category_label": "Fleet & Logistics",
+            "controller": "App\\Http\\Controllers\\Api\\OrderController@liveActivity",
+            "status": "active",
+            "method": "GET",
+            "description": "Dynamic lockscreen tracking simulator."
+        },
+        {
+            "id": "admin_portal",
+            "name": "\ud83d\udc51 SULTANA'S DREAM Admin ERP",
+            "hash": "#admin/dashboard",
+            "category": "admin",
+            "category_label": "Executive Admin Suite",
+            "controller": "App\\Http\\Controllers\\Api\\AdminController@dashboard",
+            "status": "active",
+            "method": "GET",
+            "description": "Executive dashboard with revenue KPIs, catalog CRUD, order state machine, and CMS."
+        },
+        {
+            "id": "backend_control",
+            "name": "\u26a1 Architecture Route Control",
+            "hash": "#admin/backend-control",
+            "category": "admin",
+            "category_label": "Executive Admin Suite",
+            "controller": "App\\Http\\Controllers\\Api\\AdminController@routeControl",
+            "status": "active",
+            "method": "GET",
+            "description": "Developer architecture control center with backend route status toggles and telemetry."
+        },
+        {
+            "id": "vip",
+            "name": "VIP Patron CRM Database",
+            "hash": "#admin/vip",
+            "category": "admin",
+            "category_label": "Executive Admin Suite",
+            "controller": "App\\Http\\Controllers\\Api\\AuthController@crm",
+            "status": "active",
+            "method": "GET",
+            "description": "High net-worth patron accounts and reward tiers."
+        },
+        {
+            "id": "vault",
+            "name": "Digital Certificate Minting",
+            "hash": "#admin/vault",
+            "category": "admin",
+            "category_label": "Executive Admin Suite",
+            "controller": "App\\Http\\Controllers\\Api\\AtelierOpsController@vault",
+            "status": "active",
+            "method": "POST",
+            "description": "Authenticity certificate verification and minting."
+        }
+    ],
+    "homepage_sections": [
+        {
+            "id": "announcement_bar",
+            "type": "announcement_bar",
+            "title": "COMPLIMENTARY NATIONWIDE SHIPPING ACROSS BANGLADESH OVER \u09f32,500 \u2022 USE CODE: SULTANA20",
+            "subtitle": "20% Off Festive Haul",
+            "is_active": true,
+            "sort_order": 1,
+            "settings": {
+                "bgColor": "#7A3E5D",
+                "textColor": "#FBF8F5"
+            }
+        },
+        {
+            "id": "hero_section",
+            "type": "hero_section",
+            "title": "Where Heritage Meets Haute Couture",
+            "subtitle": "Discover your everyday favorites \u2014 Heirloom Jamdani, Ethereal Muslin & Royal Zari Handlooms",
+            "button_text": "Explore Festive Collection",
+            "button_url": "#shop/catalog",
+            "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1600&auto=format&fit=crop",
+            "is_active": true,
+            "sort_order": 2
+        },
+        {
+            "id": "value_proposition",
+            "type": "value_proposition",
+            "title": "The Sultana's Dream Promise",
+            "is_active": true,
+            "sort_order": 3,
+            "features": [
+                {
+                    "title": "Authentic Handloom Certified",
+                    "desc": "Sonargaon & Narayanganj GI Weavers Guild"
+                },
+                {
+                    "title": "White-Glove Delivery",
+                    "desc": "Complimentary nationwide over \u09f32,500"
+                },
+                {
+                    "title": "Doorstep Fitting Guarantee",
+                    "desc": "Complimentary 7-day atelier sizing adjustment"
+                },
+                {
+                    "title": "Master Tailor Concierge",
+                    "desc": "Bespoke fall, pico & blouse stitching available"
+                }
+            ]
+        },
+        {
+            "id": "featured_categories",
+            "type": "featured_categories",
+            "title": "Curation By Silhouette",
+            "subtitle": "Artisanal handlooms crafted for timeless South Asian presence",
+            "is_active": true,
+            "sort_order": 4
+        },
+        {
+            "id": "featured_products",
+            "type": "featured_products",
+            "title": "Festive Season Masterpieces",
+            "subtitle": "Handcrafted unstitched sarees, anarkalis and co-ords",
+            "product_ids": [
+                "prod_01",
+                "prod_02",
+                "prod_03",
+                "prod_04"
+            ],
+            "is_active": true,
+            "sort_order": 5
+        },
+        {
+            "id": "festive_promo_banner",
+            "type": "festive_promo_banner",
+            "title": "Autumn Bridal & Festive Gala",
+            "subtitle": "Receive 20% off all pure silk and zari creations with code SULTANA20",
+            "button_text": "Claim Festive Privilege",
+            "button_url": "#shop/catalog",
+            "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=1600&auto=format&fit=crop",
+            "is_active": true,
+            "sort_order": 6
+        },
+        {
+            "id": "brand_story",
+            "type": "brand_story",
+            "title": "The Legacy of Sultana's Dream",
+            "subtitle": "A Century of Feminine Enlightenment & Craft",
+            "quote": "In 1905, Begum Rokeya envisioned a world of enlightened grace and sovereign creativity. Sultana's Dream translates that vision into modern South Asian haute couture.",
+            "author": "Atelier Guild of Bengal",
+            "image": "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?q=80&w=1000&auto=format&fit=crop",
+            "is_active": true,
+            "sort_order": 7
+        },
+        {
+            "id": "customer_reviews",
+            "type": "customer_reviews",
+            "title": "Patron Testimonials",
+            "subtitle": "Cherished by patrons across Dhaka, Chattogram, and London",
+            "is_active": true,
+            "sort_order": 8,
+            "reviews": [
+                {
+                    "name": "Nusrat Jahan",
+                    "city": "Gulshan 2, Dhaka",
+                    "comment": "The Nocturne Jamdani saree exceeded my highest expectations. The zari finish is sublime and the complimentary fall & pico service saved me so much time.",
+                    "rating": 5,
+                    "product": "Nocturne Jamdani Pure Mulberry Silk Saree"
+                },
+                {
+                    "name": "Dr. Maliha Farooq",
+                    "city": "Dhanmondi, Dhaka",
+                    "comment": "Breathable muslin like nothing else available today. Truly honors the legendary Dhaka muslin legacy.",
+                    "rating": 5,
+                    "product": "Rosewater Muslin Kalidar Anarkali Set"
+                },
+                {
+                    "name": "Samira Al-Hasan",
+                    "city": "Nasirabad, Chattogram",
+                    "comment": "Fast delivery via Steadfast and the satin-lined box packaging felt like unboxing a priceless jewel.",
+                    "rating": 5,
+                    "product": "Zari Embroidered Royale Velvet Shawl"
+                }
+            ]
+        },
+        {
+            "id": "instagram_lookbook",
+            "type": "instagram_lookbook",
+            "title": "Follow Our Journey",
+            "subtitle": "@SultanasDreamAtelier",
+            "is_active": true,
+            "sort_order": 9,
+            "images": [
+                "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=600&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=600&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=600&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=600&auto=format&fit=crop",
+                "https://images.unsplash.com/photo-1518049362265-d5b2a6467637?q=80&w=600&auto=format&fit=crop"
+            ]
+        },
+        {
+            "id": "newsletter",
+            "type": "newsletter",
+            "title": "Join the Sultana's Dream Circle",
+            "subtitle": "Receive private invitations to handloom trunk shows, seasonal previews, and receive \u09f31,000 off your first bespoke order.",
+            "is_active": true,
+            "sort_order": 10
+        }
+    ],
+    "navigation_items": [
+        {
+            "id": "nav_home",
+            "label": "Home",
+            "url": "#shop/storefront",
+            "is_active": true,
+            "sort_order": 1
+        },
+        {
+            "id": "nav_shop",
+            "label": "Shop",
+            "url": "#shop/catalog",
+            "is_active": true,
+            "sort_order": 2
+        },
+        {
+            "id": "nav_new",
+            "label": "New Arrivals",
+            "url": "#shop/catalog",
+            "is_active": true,
+            "sort_order": 3
+        },
+        {
+            "id": "nav_bestsellers",
+            "label": "Best Sellers",
+            "url": "#shop/catalog",
+            "is_active": true,
+            "sort_order": 4
+        },
+        {
+            "id": "nav_collections",
+            "label": "Collections",
+            "url": "#shop/catalog",
+            "is_active": true,
+            "sort_order": 5
+        },
+        {
+            "id": "nav_offers",
+            "label": "Offers",
+            "url": "#shop/catalog",
+            "is_active": true,
+            "highlight": true,
+            "sort_order": 6
+        }
+    ],
+    "footer_config": {
+        "store_name": "SULTANA'S DREAM",
+        "tagline": "Modern South Asian Haute Couture celebrating feminine heritage, unstitched heirloom silks, and effortless contemporary silhouettes.",
+        "address": "House 42, Road 11, Block D, Banani, Dhaka-1213, Bangladesh",
+        "phone": "+880 1712-345678",
+        "email": "concierge@sultanasdream.com",
+        "hours": "Saturday \u2013 Thursday: 10:00 AM \u2013 8:30 PM",
+        "social_links": {
+            "instagram": "https://instagram.com/sultanasdreamatelier",
+            "facebook": "https://facebook.com/sultanasdream",
+            "whatsapp": "+8801712345678"
+        },
+        "columns": [
+            {
+                "title": "Boutique",
+                "links": [
+                    {
+                        "label": "Jamdani Sarees",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Muslin Anarkalis",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Co-ord Sets",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Royale Velvet Shawls",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Heritage Jewelry",
+                        "url": "#shop/catalog"
+                    }
+                ]
+            },
+            {
+                "title": "Atelier Services",
+                "links": [
+                    {
+                        "label": "Doorstep Try-On",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Master Tailor Fitting",
+                        "url": "#shop/account"
+                    },
+                    {
+                        "label": "Care & Silk Restoration",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Bespoke Bridal Consult",
+                        "url": "#shop/catalog"
+                    }
+                ]
+            },
+            {
+                "title": "Customer Care",
+                "links": [
+                    {
+                        "label": "Order Tracking",
+                        "url": "#shop/confirmation"
+                    },
+                    {
+                        "label": "Shipping & Delivery",
+                        "url": "#shop/catalog"
+                    },
+                    {
+                        "label": "Returns & Exchanges",
+                        "url": "#shop/returns"
+                    },
+                    {
+                        "label": "Patron Account",
+                        "url": "#shop/account"
+                    }
+                ]
+            }
+        ],
+        "copyright": "\u00a9 2026 Sultana's Dream Haute Couture & Living. All Rights Reserved."
+    },
+    "inventory_transactions": [
+        {
+            "id": "TX-901",
+            "product_id": "prod_01",
+            "sku": "SD-JMD-001",
+            "product_title": "Nocturne Jamdani Pure Mulberry Silk Saree",
+            "type": "sale",
+            "quantity": -1,
+            "balance_after": 14,
+            "order_id": "SD-10254",
+            "note": "Online checkout verified (bKash)",
+            "timestamp": "2026-09-08 20:15:00"
+        },
+        {
+            "id": "TX-900",
+            "product_id": "prod_01",
+            "sku": "SD-JMD-001",
+            "product_title": "Nocturne Jamdani Pure Mulberry Silk Saree",
+            "type": "restock",
+            "quantity": 15,
+            "balance_after": 15,
+            "order_id": null,
+            "note": "Sonargaon Guild Weavers Shipment #08",
+            "timestamp": "2026-09-01 11:30:00"
+        },
+        {
+            "id": "TX-899",
+            "product_id": "prod_02",
+            "sku": "SD-ANK-002",
+            "product_title": "Rosewater Muslin Kalidar Anarkali Set",
+            "type": "sale",
+            "quantity": -1,
+            "balance_after": 11,
+            "order_id": "SD-10189",
+            "note": "Cash on Delivery Fulfilled",
+            "timestamp": "2026-08-14 14:20:00"
+        }
+    ],
+    "admin_users": [
+        {
+            "id": "usr_01",
+            "name": "Ayesha Rahman (Chief Curator)",
+            "email": "admin@sultanasdream.com",
+            "password_hash": "",
+            "role": "Super Admin",
+            "permissions": [
+                "ALL"
+            ]
+        },
+        {
+            "id": "usr_02",
+            "name": "Kamrul Hassan (Atelier Director)",
+            "email": "manager@sultanasdream.com",
+            "password_hash": "",
+            "role": "Store Manager",
+            "permissions": [
+                "PRODUCTS",
+                "ORDERS",
+                "INVENTORY",
+                "CMS"
+            ]
+        }
+    ],
+    "media_library": [
+        {
+            "id": "med_01",
+            "name": "nocturne_jamdani_hero.jpg",
+            "url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1600&auto=format&fit=crop",
+            "size": "420 KB",
+            "category": "Sarees"
+        },
+        {
+            "id": "med_02",
+            "name": "rosewater_muslin_anarkali.jpg",
+            "url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=1600&auto=format&fit=crop",
+            "size": "380 KB",
+            "category": "Anarkalis"
+        },
+        {
+            "id": "med_03",
+            "name": "zari_velvet_shawl.jpg",
+            "url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1600&auto=format&fit=crop",
+            "size": "510 KB",
+            "category": "Shawls"
+        },
+        {
+            "id": "med_04",
+            "name": "chanderi_coord_festive.jpg",
+            "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=1600&auto=format&fit=crop",
+            "size": "310 KB",
+            "category": "Co-ords"
+        }
+    ],
+    "active_admin_tokens": {
+        "sd_admin_8fc579360a405804beb09ee376598700": {
+            "user_id": "usr_01",
+            "email": "admin@sultanasdream.com",
+            "role": "Super Admin",
+            "created_at": "2026-09-09 06:31:13",
+            "timestamp": 1788928273
+        },
+        "sd_admin_8013de7d9059d12df9b8760d8f3f41c4": {
+            "user_id": "usr_01",
+            "email": "admin@sultanasdream.com",
+            "role": "Super Admin",
+            "created_at": "2026-09-09 07:54:28",
+            "timestamp": 1788933268
+        },
+        "sd_admin_a1d15d8df95df851e0e8d16600dc1db0": {
+            "user_id": "usr_01",
+            "email": "admin@sultanasdream.com",
+            "role": "Super Admin",
+            "created_at": "2026-09-09 08:20:59",
+            "timestamp": 1788934859
+        },
+        "sd_admin_6ac72929779d04d37473201baa11e05c": {
+            "user_id": "usr_01",
+            "email": "admin@sultanasdream.com",
+            "role": "Super Admin",
+            "created_at": "2026-09-09 08:21:02",
+            "timestamp": 1788934862
+        },
+        "sd_admin_113e3ec739da503711fd253f5cdf68c9": {
+            "user_id": "usr_01",
+            "email": "admin@sultanasdream.com",
+            "role": "Super Admin",
+            "created_at": "2026-09-09 08:21:05",
+            "timestamp": 1788934865
+        }
+    }
+}
